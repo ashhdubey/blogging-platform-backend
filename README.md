@@ -36,7 +36,7 @@ This is a backend project for a simple blogging platform where users can **creat
 
 ## 👨‍💻 Author
 
-**Ashish Dubey**  
+**Ashish Kumar Dubey**  
 Intern at Bridge7 Engineers  
 This project is a part of a Internship under ProdeskIT.
 
